@@ -1,0 +1,1 @@
+I understood the all basic functions of git and creating operations(add,commit,push)by using github server.
